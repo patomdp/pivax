@@ -2,3 +2,5 @@
 *.mobirise
 # Ignora el archivo de ruta a la parte gráfica
 *.txt
+# Ignora el archivo de upload al servidor
+*.zip
